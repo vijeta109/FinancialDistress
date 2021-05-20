@@ -1,0 +1,12 @@
+2020-10-18/09:09:45		Opened %s database successfully
+2020-10-18/09:09:46		Closed %s database successfully
+2020-10-18/09:09:48		Opened %s database successfully
+2020-10-18/09:10:08		Opened %s database successfully
+2020-10-18/09:10:08		Closed %s database successfully
+2020-10-18/09:10:11		Opened %s database successfully
+2020-10-18/09:18:23		Opened %s database successfully
+2020-10-18/09:18:23		Closed %s database successfully
+2020-10-18/09:18:23		Opened %s database successfully
+2020-10-18/09:18:30		Opened %s database successfully
+2020-10-18/09:18:30		Closed %s database successfully
+2020-10-18/09:18:32		Opened %s database successfully
